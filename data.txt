@@ -1,3 +1,4 @@
 Name: Ismael
 Age: 24
 Favorite Color: Blue
+Stress Level: 99/100
